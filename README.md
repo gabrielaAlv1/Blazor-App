@@ -1,3 +1,6 @@
+//Gabriela Alvarez
+//https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
+
 # Blazor Starter Application
 
 This template contains an example [Blazor WebAssembly](https://docs.microsoft.com/aspnet/core/blazor/?view=aspnetcore-3.1#blazor-webassembly) client application, a C# [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview) and a C# class library with shared code.
@@ -22,3 +25,5 @@ _Note: If you're using the Azure Functions CLI tools, refer to [the documentatio
 ## Deploy to Azure Static Web Apps
 
 This application can be deployed to [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps), to learn how, check out [our quickstart guide](https://aka.ms/blazor-swa/quickstart).
+![finalp](https://user-images.githubusercontent.com/69876801/133711864-1f84a65b-cc87-4ea7-9f7e-9208aa348e18.jpg)
+![count](https://user-images.githubusercontent.com/69876801/133711880-040c7afa-eab5-4c04-b2ae-81ec5c7c09bf.jpg)
