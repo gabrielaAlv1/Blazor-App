@@ -31,3 +31,4 @@ This application can be deployed to [Azure Static Web Apps](https://docs.microso
 ![finalp](https://user-images.githubusercontent.com/69876801/133711864-1f84a65b-cc87-4ea7-9f7e-9208aa348e18.jpg)
 ![count](https://user-images.githubusercontent.com/69876801/133711880-040c7afa-eab5-4c04-b2ae-81ec5c7c09bf.jpg)
 
+![todo](https://user-images.githubusercontent.com/69876801/135550053-4297dff3-4729-4076-a593-d4affcbd12df.gif)
